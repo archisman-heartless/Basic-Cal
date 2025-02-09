@@ -5,6 +5,10 @@ body{
     height: 100vh;
     background-color: rgb(9, 78, 78);
 }
+#text{
+    margin: 1px;
+    text-align: center;
+}
 #operators{
     background-color: rgb(210, 148, 35);
 }
